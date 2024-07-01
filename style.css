@@ -5,8 +5,7 @@
 }
 .container{
 
-    width: 500px;
-    margin: 100px auto;
+    width: 100%;
     height: auto;
     display: flex;
     flex-direction: column;
